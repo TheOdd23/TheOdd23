@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 I am a 42 student, working on the final project of the "tronc commun" and looking for an internship this end of the summer.
-I'm passionate about Video, Escape and Boardgames and pretty much everything that has enigmas, puzzles and problem-solving.
+I'm passionate about games (Video, Escape and Boardgames) and pretty much everything that has enigmas, puzzles and problem-solving.
 Coding scratch that itch for me and i'm eager to discover more about it!
 
 - 🔭 I’m currently working on Making a Pong game match making website, including an online chat.
