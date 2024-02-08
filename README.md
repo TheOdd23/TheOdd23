@@ -2,7 +2,7 @@
 
 I'm Anthony Hébert, a former student at 42 Québec, actively seeking exciting career opportunities.
 
-Passionate about games (Video Games🎮, Escape Games🔓, and Boardgames🎲), music🎶, multimedia creation🎚️ and everything that involves enigmas🔍, puzzles🧠, and problem-solving🕵️‍♂️. Coding not only scratches that same itch for me, but also makes me eager to dig deeper into this vast domain through a dynamic and engaging work environment, where I can put my skills to meaningful use!
+Passionate about games (Video Games 🎮, Escape Games 🔓, and Boardgames 🎲), music 🎶, multimedia creation 🎚️ and everything that involves enigmas 🔍, puzzles 🧠, and problem-solving 🕵️‍♂️. Coding not only scratches that same itch for me, but also makes me eager to dig deeper into this vast domain through a dynamic and engaging work environment, where I can put my skills to meaningful use!
 
 🔭 I’m currently working on personal projects to learn new concepts and languages. One of them involves developping a video game with Unity.
 
